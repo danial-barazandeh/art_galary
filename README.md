@@ -16,15 +16,15 @@
 ###Screen Shots
 
 
-> Friendly home page ( further development is planned )
+Friendly home page ( further development is planned )
 ![](./screenshots/Home.jpg)
 
 
-> Page for showing posts
+Page for showing posts
 ![](./screenshots/Post-Page.jpg)
 
-> Profile management
+Profile management
 ![](./screenshots/Profile-Edit.jpg)
 
-> Page for showing users and their art ( further development is planned )
+Page for showing users and their art ( further development is planned )
 ![](./screenshots/user-page.jpg)
