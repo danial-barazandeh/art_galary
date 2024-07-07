@@ -13,18 +13,18 @@
 - GetX for state management
 
 
-###Screen Shots
+### Screen Shots
 
 
 Friendly home page ( further development is planned )
 ![](./screenshots/Home.jpg)
 
 
-Page for showing posts
+A page for showing posts
 ![](./screenshots/Post-Page.jpg)
 
 Profile management
 ![](./screenshots/Profile-Edit.jpg)
 
-Page for showing users and their art ( further development is planned )
+A page for showing users and their art ( further development is planned )
 ![](./screenshots/user-page.jpg)
