@@ -19,15 +19,20 @@
 Friendly home page - further development is planned 
 ![](./screenshots/Home.jpg)
 
+
 [========]
+
+
 A page for showing posts
 ![](./screenshots/Post-Page.jpg)
 
 [========]
+
 Profile management
 ![](./screenshots/Profile-Edit.jpg)
 
 [========]
+
 A page for showing users and their art - further development is planned 
 ![](./screenshots/user-page.jpg)
 
