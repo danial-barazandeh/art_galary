@@ -1,16 +1,30 @@
-# art_galary
+### Features
 
-A new Flutter project.
+- Google Authentication for users
+- Profile management
+- Posting system
+- Friends management ( coming soon)
+- Firebase storage for uploading
 
-## Getting Started
+### Technology
 
-This project is a starting point for a Flutter application.
+- Firebase for database
+- Google auth for user authentication
+- GetX for state management
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+###Screen Shots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+> Friendly home page ( further development is planned )
+![](./screenshots/Home.jpg)
+
+
+> Page for showing posts
+![](./screenshots/Post-Page.jpg)
+
+> Profile management
+![](./screenshots/Profile-Edit.jpg)
+
+> Page for showing users and their art ( further development is planned )
+![](./screenshots/user-page.jpg)
