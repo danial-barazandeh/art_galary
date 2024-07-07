@@ -1,0 +1,44 @@
+name: art_galary
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.8
+  get: ^4.6.6
+  firebase_core: ^3.1.1
+  firebase_analytics: ^11.1.0
+  firebase_messaging: ^15.0.2
+  firebase_auth: ^5.1.1
+  firebase_ui_auth: ^1.15.0
+  cloud_firestore: ^5.0.2
+  google_sign_in: ^6.2.1
+  simple_chips_input: ^1.2.0
+  image_picker: ^1.1.2
+  firebase_storage: ^12.1.0
+  path: ^1.9.0
+  loading_animation_widget: ^1.2.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^3.0.0
+
+
+flutter:
+
+  uses-material-design: true
