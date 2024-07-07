@@ -65,7 +65,7 @@ class UserView extends GetView<UserViewController> {
             ),
 
             Container(
-              height: MediaQuery.of(context).size.height*0.85,
+              height: (MediaQuery.of(context).size.height)-(50)-(64)-32,
               child: Obx(
                     ()=> ListView.builder(
                     itemCount: controller.posts.length,

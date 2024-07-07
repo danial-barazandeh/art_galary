@@ -23,6 +23,7 @@ class UserViewController extends GetxController {
   }
 
   Future<void> getPosts( AppUser user) async{
+    posts.clear();
 
     print("***: "+user.toJson().toString());
 
